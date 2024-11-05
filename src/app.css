@@ -1,0 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    color: rgb(230, 230, 230);
+    transform: translateY(20px);
+}
