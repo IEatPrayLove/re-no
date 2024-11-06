@@ -41,6 +41,5 @@ module.exports = {
 		new webpack.DefinePlugin({
 			'process.env.BASE_ENV': JSON.stringify(process.env.BASE_ENV),
 		}),
-		'autoprefixer',
 	]
 }
